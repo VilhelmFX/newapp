@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>11</integer>
+	<key>logs</key>
+	<dict>
+		<key>20E5FC25-675B-49E9-8CF5-DAC3F4591F82</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>20E5FC25-675B-49E9-8CF5-DAC3F4591F82.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>2</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>WebViewGold project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>WebViewGold</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace WebViewGold for testing with scheme WebViewGold</string>
+			<key>timeStartedRecording</key>
+			<real>737696633.69914806</real>
+			<key>timeStoppedRecording</key>
+			<real>737696635.52984202</real>
+			<key>title</key>
+			<string>Building workspace WebViewGold for testing with scheme WebViewGold</string>
+			<key>uniqueIdentifier</key>
+			<string>20E5FC25-675B-49E9-8CF5-DAC3F4591F82</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

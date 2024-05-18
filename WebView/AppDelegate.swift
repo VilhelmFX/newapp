@@ -17,7 +17,9 @@ import FBAudienceNetwork
 import AppTrackingTransparency
 import WonderPush
 import Pushwoosh
-
+import AppCenter
+import AppCenterAnalytics
+import AppCenterCrashes
 
 @UIApplicationMain
 
@@ -58,7 +60,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate, PWMessagingDelegate {
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
         
         UIApplication.shared.applicationIconBadgeNumber = 0
-        
+        handleAppCenter()
         if (Constants.useFacebookAds){
             FBAudienceNetworkAds.initialize(with: nil, completionHandler: nil)
         }
@@ -279,6 +281,12 @@ class AppDelegate: UIResponder, UIApplicationDelegate, PWMessagingDelegate {
         return true
     }
     
+    private func handleAppCenter() {
+        AppCenter.start(withAppSecret: "2a7d850b-19e6-4dc8-9fe1-9cfcbf295b62", services:[
+            Analytics.self,
+            Crashes.self
+        ])
+    }
     func deactivatedarkmode() {
         if #available(iOS 13.0, *) {
             window?.overrideUserInterfaceStyle = .light

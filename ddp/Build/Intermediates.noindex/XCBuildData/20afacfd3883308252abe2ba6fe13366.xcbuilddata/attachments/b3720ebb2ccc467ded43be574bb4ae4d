@@ -1,0 +1,23 @@
+{
+  'version': 0,
+  'use-external-names': 'false',
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': "/Users/vil/Development/ios/WebViewGold_iOS_13.7/wsa/ddp/Build/Products/Debug-iphoneos/SwiftQRScanner/SwiftQRScanner.framework/Modules"
+    'contents': [{
+      'type': 'file',
+      'name': "module.modulemap",
+      'external-contents': "/Users/vil/Development/ios/WebViewGold_iOS_13.7/wsa/ddp/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/SwiftQRScanner.build/unextended-module.modulemap",
+    }]
+    },
+    {
+    'type': 'directory',
+    'name': "/Users/vil/Development/ios/WebViewGold_iOS_13.7/wsa/ddp/Build/Products/Debug-iphoneos/SwiftQRScanner/SwiftQRScanner.framework/Headers"
+    'contents': [{
+      'type': 'file',
+      'name': "SwiftQRScanner-Swift.h",
+      'external-contents': "/Users/vil/Development/ios/WebViewGold_iOS_13.7/wsa/ddp/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/SwiftQRScanner.build/unextended-interface-header.h",
+    }]
+    }]
+}

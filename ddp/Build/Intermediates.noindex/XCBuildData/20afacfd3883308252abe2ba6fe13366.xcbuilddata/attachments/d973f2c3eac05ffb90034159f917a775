@@ -1,0 +1,158 @@
+{
+  "" : {
+    "diagnostics" : "/Users/vil/Development/ios/WebViewGold_iOS_13.7/wsa/ddp/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/SwiftyStoreKit.build/Objects-normal/arm64/SwiftyStoreKit-master.dia",
+    "emit-module-dependencies" : "/Users/vil/Development/ios/WebViewGold_iOS_13.7/wsa/ddp/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/SwiftyStoreKit.build/Objects-normal/arm64/SwiftyStoreKit-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/vil/Development/ios/WebViewGold_iOS_13.7/wsa/ddp/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/SwiftyStoreKit.build/Objects-normal/arm64/SwiftyStoreKit-master-emit-module.dia",
+    "swift-dependencies" : "/Users/vil/Development/ios/WebViewGold_iOS_13.7/wsa/ddp/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/SwiftyStoreKit.build/Objects-normal/arm64/SwiftyStoreKit-master.swiftdeps"
+  },
+  "/Users/vil/Development/ios/WebViewGold_iOS_13.7/wsa/Pods/SwiftyStoreKit/Sources/SwiftyStoreKit/AppleReceiptValidator.swift" : {
+    "const-values" : "/Users/vil/Development/ios/WebViewGold_iOS_13.7/wsa/ddp/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/SwiftyStoreKit.build/Objects-normal/arm64/AppleReceiptValidator.swiftconstvalues",
+    "dependencies" : "/Users/vil/Development/ios/WebViewGold_iOS_13.7/wsa/ddp/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/SwiftyStoreKit.build/Objects-normal/arm64/AppleReceiptValidator.d",
+    "diagnostics" : "/Users/vil/Development/ios/WebViewGold_iOS_13.7/wsa/ddp/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/SwiftyStoreKit.build/Objects-normal/arm64/AppleReceiptValidator.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphoneos/SwiftyStoreKit.build/Objects-normal/arm64/AppleReceiptValidator.o",
+    "llvm-bc" : "/Users/vil/Development/ios/WebViewGold_iOS_13.7/wsa/ddp/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/SwiftyStoreKit.build/Objects-normal/arm64/AppleReceiptValidator.bc",
+    "object" : "/Users/vil/Development/ios/WebViewGold_iOS_13.7/wsa/ddp/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/SwiftyStoreKit.build/Objects-normal/arm64/AppleReceiptValidator.o",
+    "swift-dependencies" : "/Users/vil/Development/ios/WebViewGold_iOS_13.7/wsa/ddp/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/SwiftyStoreKit.build/Objects-normal/arm64/AppleReceiptValidator.swiftdeps",
+    "swiftmodule" : "/Users/vil/Development/ios/WebViewGold_iOS_13.7/wsa/ddp/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/SwiftyStoreKit.build/Objects-normal/arm64/AppleReceiptValidator~partial.swiftmodule"
+  },
+  "/Users/vil/Development/ios/WebViewGold_iOS_13.7/wsa/Pods/SwiftyStoreKit/Sources/SwiftyStoreKit/CompleteTransactionsController.swift" : {
+    "const-values" : "/Users/vil/Development/ios/WebViewGold_iOS_13.7/wsa/ddp/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/SwiftyStoreKit.build/Objects-normal/arm64/CompleteTransactionsController.swiftconstvalues",
+    "dependencies" : "/Users/vil/Development/ios/WebViewGold_iOS_13.7/wsa/ddp/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/SwiftyStoreKit.build/Objects-normal/arm64/CompleteTransactionsController.d",
+    "diagnostics" : "/Users/vil/Development/ios/WebViewGold_iOS_13.7/wsa/ddp/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/SwiftyStoreKit.build/Objects-normal/arm64/CompleteTransactionsController.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphoneos/SwiftyStoreKit.build/Objects-normal/arm64/CompleteTransactionsController.o",
+    "llvm-bc" : "/Users/vil/Development/ios/WebViewGold_iOS_13.7/wsa/ddp/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/SwiftyStoreKit.build/Objects-normal/arm64/CompleteTransactionsController.bc",
+    "object" : "/Users/vil/Development/ios/WebViewGold_iOS_13.7/wsa/ddp/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/SwiftyStoreKit.build/Objects-normal/arm64/CompleteTransactionsController.o",
+    "swift-dependencies" : "/Users/vil/Development/ios/WebViewGold_iOS_13.7/wsa/ddp/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/SwiftyStoreKit.build/Objects-normal/arm64/CompleteTransactionsController.swiftdeps",
+    "swiftmodule" : "/Users/vil/Development/ios/WebViewGold_iOS_13.7/wsa/ddp/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/SwiftyStoreKit.build/Objects-normal/arm64/CompleteTransactionsController~partial.swiftmodule"
+  },
+  "/Users/vil/Development/ios/WebViewGold_iOS_13.7/wsa/Pods/SwiftyStoreKit/Sources/SwiftyStoreKit/InAppProductQueryRequest.swift" : {
+    "const-values" : "/Users/vil/Development/ios/WebViewGold_iOS_13.7/wsa/ddp/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/SwiftyStoreKit.build/Objects-normal/arm64/InAppProductQueryRequest.swiftconstvalues",
+    "dependencies" : "/Users/vil/Development/ios/WebViewGold_iOS_13.7/wsa/ddp/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/SwiftyStoreKit.build/Objects-normal/arm64/InAppProductQueryRequest.d",
+    "diagnostics" : "/Users/vil/Development/ios/WebViewGold_iOS_13.7/wsa/ddp/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/SwiftyStoreKit.build/Objects-normal/arm64/InAppProductQueryRequest.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphoneos/SwiftyStoreKit.build/Objects-normal/arm64/InAppProductQueryRequest.o",
+    "llvm-bc" : "/Users/vil/Development/ios/WebViewGold_iOS_13.7/wsa/ddp/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/SwiftyStoreKit.build/Objects-normal/arm64/InAppProductQueryRequest.bc",
+    "object" : "/Users/vil/Development/ios/WebViewGold_iOS_13.7/wsa/ddp/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/SwiftyStoreKit.build/Objects-normal/arm64/InAppProductQueryRequest.o",
+    "swift-dependencies" : "/Users/vil/Development/ios/WebViewGold_iOS_13.7/wsa/ddp/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/SwiftyStoreKit.build/Objects-normal/arm64/InAppProductQueryRequest.swiftdeps",
+    "swiftmodule" : "/Users/vil/Development/ios/WebViewGold_iOS_13.7/wsa/ddp/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/SwiftyStoreKit.build/Objects-normal/arm64/InAppProductQueryRequest~partial.swiftmodule"
+  },
+  "/Users/vil/Development/ios/WebViewGold_iOS_13.7/wsa/Pods/SwiftyStoreKit/Sources/SwiftyStoreKit/InAppReceipt.swift" : {
+    "const-values" : "/Users/vil/Development/ios/WebViewGold_iOS_13.7/wsa/ddp/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/SwiftyStoreKit.build/Objects-normal/arm64/InAppReceipt.swiftconstvalues",
+    "dependencies" : "/Users/vil/Development/ios/WebViewGold_iOS_13.7/wsa/ddp/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/SwiftyStoreKit.build/Objects-normal/arm64/InAppReceipt.d",
+    "diagnostics" : "/Users/vil/Development/ios/WebViewGold_iOS_13.7/wsa/ddp/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/SwiftyStoreKit.build/Objects-normal/arm64/InAppReceipt.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphoneos/SwiftyStoreKit.build/Objects-normal/arm64/InAppReceipt.o",
+    "llvm-bc" : "/Users/vil/Development/ios/WebViewGold_iOS_13.7/wsa/ddp/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/SwiftyStoreKit.build/Objects-normal/arm64/InAppReceipt.bc",
+    "object" : "/Users/vil/Development/ios/WebViewGold_iOS_13.7/wsa/ddp/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/SwiftyStoreKit.build/Objects-normal/arm64/InAppReceipt.o",
+    "swift-dependencies" : "/Users/vil/Development/ios/WebViewGold_iOS_13.7/wsa/ddp/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/SwiftyStoreKit.build/Objects-normal/arm64/InAppReceipt.swiftdeps",
+    "swiftmodule" : "/Users/vil/Development/ios/WebViewGold_iOS_13.7/wsa/ddp/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/SwiftyStoreKit.build/Objects-normal/arm64/InAppReceipt~partial.swiftmodule"
+  },
+  "/Users/vil/Development/ios/WebViewGold_iOS_13.7/wsa/Pods/SwiftyStoreKit/Sources/SwiftyStoreKit/InAppReceiptRefreshRequest.swift" : {
+    "const-values" : "/Users/vil/Development/ios/WebViewGold_iOS_13.7/wsa/ddp/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/SwiftyStoreKit.build/Objects-normal/arm64/InAppReceiptRefreshRequest.swiftconstvalues",
+    "dependencies" : "/Users/vil/Development/ios/WebViewGold_iOS_13.7/wsa/ddp/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/SwiftyStoreKit.build/Objects-normal/arm64/InAppReceiptRefreshRequest.d",
+    "diagnostics" : "/Users/vil/Development/ios/WebViewGold_iOS_13.7/wsa/ddp/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/SwiftyStoreKit.build/Objects-normal/arm64/InAppReceiptRefreshRequest.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphoneos/SwiftyStoreKit.build/Objects-normal/arm64/InAppReceiptRefreshRequest.o",
+    "llvm-bc" : "/Users/vil/Development/ios/WebViewGold_iOS_13.7/wsa/ddp/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/SwiftyStoreKit.build/Objects-normal/arm64/InAppReceiptRefreshRequest.bc",
+    "object" : "/Users/vil/Development/ios/WebViewGold_iOS_13.7/wsa/ddp/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/SwiftyStoreKit.build/Objects-normal/arm64/InAppReceiptRefreshRequest.o",
+    "swift-dependencies" : "/Users/vil/Development/ios/WebViewGold_iOS_13.7/wsa/ddp/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/SwiftyStoreKit.build/Objects-normal/arm64/InAppReceiptRefreshRequest.swiftdeps",
+    "swiftmodule" : "/Users/vil/Development/ios/WebViewGold_iOS_13.7/wsa/ddp/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/SwiftyStoreKit.build/Objects-normal/arm64/InAppReceiptRefreshRequest~partial.swiftmodule"
+  },
+  "/Users/vil/Development/ios/WebViewGold_iOS_13.7/wsa/Pods/SwiftyStoreKit/Sources/SwiftyStoreKit/InAppReceiptVerificator.swift" : {
+    "const-values" : "/Users/vil/Development/ios/WebViewGold_iOS_13.7/wsa/ddp/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/SwiftyStoreKit.build/Objects-normal/arm64/InAppReceiptVerificator.swiftconstvalues",
+    "dependencies" : "/Users/vil/Development/ios/WebViewGold_iOS_13.7/wsa/ddp/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/SwiftyStoreKit.build/Objects-normal/arm64/InAppReceiptVerificator.d",
+    "diagnostics" : "/Users/vil/Development/ios/WebViewGold_iOS_13.7/wsa/ddp/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/SwiftyStoreKit.build/Objects-normal/arm64/InAppReceiptVerificator.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphoneos/SwiftyStoreKit.build/Objects-normal/arm64/InAppReceiptVerificator.o",
+    "llvm-bc" : "/Users/vil/Development/ios/WebViewGold_iOS_13.7/wsa/ddp/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/SwiftyStoreKit.build/Objects-normal/arm64/InAppReceiptVerificator.bc",
+    "object" : "/Users/vil/Development/ios/WebViewGold_iOS_13.7/wsa/ddp/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/SwiftyStoreKit.build/Objects-normal/arm64/InAppReceiptVerificator.o",
+    "swift-dependencies" : "/Users/vil/Development/ios/WebViewGold_iOS_13.7/wsa/ddp/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/SwiftyStoreKit.build/Objects-normal/arm64/InAppReceiptVerificator.swiftdeps",
+    "swiftmodule" : "/Users/vil/Development/ios/WebViewGold_iOS_13.7/wsa/ddp/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/SwiftyStoreKit.build/Objects-normal/arm64/InAppReceiptVerificator~partial.swiftmodule"
+  },
+  "/Users/vil/Development/ios/WebViewGold_iOS_13.7/wsa/Pods/SwiftyStoreKit/Sources/SwiftyStoreKit/OS.swift" : {
+    "const-values" : "/Users/vil/Development/ios/WebViewGold_iOS_13.7/wsa/ddp/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/SwiftyStoreKit.build/Objects-normal/arm64/OS.swiftconstvalues",
+    "dependencies" : "/Users/vil/Development/ios/WebViewGold_iOS_13.7/wsa/ddp/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/SwiftyStoreKit.build/Objects-normal/arm64/OS.d",
+    "diagnostics" : "/Users/vil/Development/ios/WebViewGold_iOS_13.7/wsa/ddp/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/SwiftyStoreKit.build/Objects-normal/arm64/OS.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphoneos/SwiftyStoreKit.build/Objects-normal/arm64/OS.o",
+    "llvm-bc" : "/Users/vil/Development/ios/WebViewGold_iOS_13.7/wsa/ddp/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/SwiftyStoreKit.build/Objects-normal/arm64/OS.bc",
+    "object" : "/Users/vil/Development/ios/WebViewGold_iOS_13.7/wsa/ddp/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/SwiftyStoreKit.build/Objects-normal/arm64/OS.o",
+    "swift-dependencies" : "/Users/vil/Development/ios/WebViewGold_iOS_13.7/wsa/ddp/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/SwiftyStoreKit.build/Objects-normal/arm64/OS.swiftdeps",
+    "swiftmodule" : "/Users/vil/Development/ios/WebViewGold_iOS_13.7/wsa/ddp/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/SwiftyStoreKit.build/Objects-normal/arm64/OS~partial.swiftmodule"
+  },
+  "/Users/vil/Development/ios/WebViewGold_iOS_13.7/wsa/Pods/SwiftyStoreKit/Sources/SwiftyStoreKit/PaymentQueueController.swift" : {
+    "const-values" : "/Users/vil/Development/ios/WebViewGold_iOS_13.7/wsa/ddp/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/SwiftyStoreKit.build/Objects-normal/arm64/PaymentQueueController.swiftconstvalues",
+    "dependencies" : "/Users/vil/Development/ios/WebViewGold_iOS_13.7/wsa/ddp/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/SwiftyStoreKit.build/Objects-normal/arm64/PaymentQueueController.d",
+    "diagnostics" : "/Users/vil/Development/ios/WebViewGold_iOS_13.7/wsa/ddp/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/SwiftyStoreKit.build/Objects-normal/arm64/PaymentQueueController.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphoneos/SwiftyStoreKit.build/Objects-normal/arm64/PaymentQueueController.o",
+    "llvm-bc" : "/Users/vil/Development/ios/WebViewGold_iOS_13.7/wsa/ddp/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/SwiftyStoreKit.build/Objects-normal/arm64/PaymentQueueController.bc",
+    "object" : "/Users/vil/Development/ios/WebViewGold_iOS_13.7/wsa/ddp/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/SwiftyStoreKit.build/Objects-normal/arm64/PaymentQueueController.o",
+    "swift-dependencies" : "/Users/vil/Development/ios/WebViewGold_iOS_13.7/wsa/ddp/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/SwiftyStoreKit.build/Objects-normal/arm64/PaymentQueueController.swiftdeps",
+    "swiftmodule" : "/Users/vil/Development/ios/WebViewGold_iOS_13.7/wsa/ddp/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/SwiftyStoreKit.build/Objects-normal/arm64/PaymentQueueController~partial.swiftmodule"
+  },
+  "/Users/vil/Development/ios/WebViewGold_iOS_13.7/wsa/Pods/SwiftyStoreKit/Sources/SwiftyStoreKit/PaymentsController.swift" : {
+    "const-values" : "/Users/vil/Development/ios/WebViewGold_iOS_13.7/wsa/ddp/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/SwiftyStoreKit.build/Objects-normal/arm64/PaymentsController.swiftconstvalues",
+    "dependencies" : "/Users/vil/Development/ios/WebViewGold_iOS_13.7/wsa/ddp/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/SwiftyStoreKit.build/Objects-normal/arm64/PaymentsController.d",
+    "diagnostics" : "/Users/vil/Development/ios/WebViewGold_iOS_13.7/wsa/ddp/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/SwiftyStoreKit.build/Objects-normal/arm64/PaymentsController.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphoneos/SwiftyStoreKit.build/Objects-normal/arm64/PaymentsController.o",
+    "llvm-bc" : "/Users/vil/Development/ios/WebViewGold_iOS_13.7/wsa/ddp/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/SwiftyStoreKit.build/Objects-normal/arm64/PaymentsController.bc",
+    "object" : "/Users/vil/Development/ios/WebViewGold_iOS_13.7/wsa/ddp/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/SwiftyStoreKit.build/Objects-normal/arm64/PaymentsController.o",
+    "swift-dependencies" : "/Users/vil/Development/ios/WebViewGold_iOS_13.7/wsa/ddp/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/SwiftyStoreKit.build/Objects-normal/arm64/PaymentsController.swiftdeps",
+    "swiftmodule" : "/Users/vil/Development/ios/WebViewGold_iOS_13.7/wsa/ddp/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/SwiftyStoreKit.build/Objects-normal/arm64/PaymentsController~partial.swiftmodule"
+  },
+  "/Users/vil/Development/ios/WebViewGold_iOS_13.7/wsa/Pods/SwiftyStoreKit/Sources/SwiftyStoreKit/ProductsInfoController.swift" : {
+    "const-values" : "/Users/vil/Development/ios/WebViewGold_iOS_13.7/wsa/ddp/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/SwiftyStoreKit.build/Objects-normal/arm64/ProductsInfoController.swiftconstvalues",
+    "dependencies" : "/Users/vil/Development/ios/WebViewGold_iOS_13.7/wsa/ddp/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/SwiftyStoreKit.build/Objects-normal/arm64/ProductsInfoController.d",
+    "diagnostics" : "/Users/vil/Development/ios/WebViewGold_iOS_13.7/wsa/ddp/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/SwiftyStoreKit.build/Objects-normal/arm64/ProductsInfoController.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphoneos/SwiftyStoreKit.build/Objects-normal/arm64/ProductsInfoController.o",
+    "llvm-bc" : "/Users/vil/Development/ios/WebViewGold_iOS_13.7/wsa/ddp/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/SwiftyStoreKit.build/Objects-normal/arm64/ProductsInfoController.bc",
+    "object" : "/Users/vil/Development/ios/WebViewGold_iOS_13.7/wsa/ddp/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/SwiftyStoreKit.build/Objects-normal/arm64/ProductsInfoController.o",
+    "swift-dependencies" : "/Users/vil/Development/ios/WebViewGold_iOS_13.7/wsa/ddp/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/SwiftyStoreKit.build/Objects-normal/arm64/ProductsInfoController.swiftdeps",
+    "swiftmodule" : "/Users/vil/Development/ios/WebViewGold_iOS_13.7/wsa/ddp/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/SwiftyStoreKit.build/Objects-normal/arm64/ProductsInfoController~partial.swiftmodule"
+  },
+  "/Users/vil/Development/ios/WebViewGold_iOS_13.7/wsa/Pods/SwiftyStoreKit/Sources/SwiftyStoreKit/RestorePurchasesController.swift" : {
+    "const-values" : "/Users/vil/Development/ios/WebViewGold_iOS_13.7/wsa/ddp/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/SwiftyStoreKit.build/Objects-normal/arm64/RestorePurchasesController.swiftconstvalues",
+    "dependencies" : "/Users/vil/Development/ios/WebViewGold_iOS_13.7/wsa/ddp/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/SwiftyStoreKit.build/Objects-normal/arm64/RestorePurchasesController.d",
+    "diagnostics" : "/Users/vil/Development/ios/WebViewGold_iOS_13.7/wsa/ddp/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/SwiftyStoreKit.build/Objects-normal/arm64/RestorePurchasesController.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphoneos/SwiftyStoreKit.build/Objects-normal/arm64/RestorePurchasesController.o",
+    "llvm-bc" : "/Users/vil/Development/ios/WebViewGold_iOS_13.7/wsa/ddp/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/SwiftyStoreKit.build/Objects-normal/arm64/RestorePurchasesController.bc",
+    "object" : "/Users/vil/Development/ios/WebViewGold_iOS_13.7/wsa/ddp/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/SwiftyStoreKit.build/Objects-normal/arm64/RestorePurchasesController.o",
+    "swift-dependencies" : "/Users/vil/Development/ios/WebViewGold_iOS_13.7/wsa/ddp/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/SwiftyStoreKit.build/Objects-normal/arm64/RestorePurchasesController.swiftdeps",
+    "swiftmodule" : "/Users/vil/Development/ios/WebViewGold_iOS_13.7/wsa/ddp/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/SwiftyStoreKit.build/Objects-normal/arm64/RestorePurchasesController~partial.swiftmodule"
+  },
+  "/Users/vil/Development/ios/WebViewGold_iOS_13.7/wsa/Pods/SwiftyStoreKit/Sources/SwiftyStoreKit/SKProduct+LocalizedPrice.swift" : {
+    "const-values" : "/Users/vil/Development/ios/WebViewGold_iOS_13.7/wsa/ddp/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/SwiftyStoreKit.build/Objects-normal/arm64/SKProduct+LocalizedPrice.swiftconstvalues",
+    "dependencies" : "/Users/vil/Development/ios/WebViewGold_iOS_13.7/wsa/ddp/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/SwiftyStoreKit.build/Objects-normal/arm64/SKProduct+LocalizedPrice.d",
+    "diagnostics" : "/Users/vil/Development/ios/WebViewGold_iOS_13.7/wsa/ddp/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/SwiftyStoreKit.build/Objects-normal/arm64/SKProduct+LocalizedPrice.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphoneos/SwiftyStoreKit.build/Objects-normal/arm64/SKProduct+LocalizedPrice.o",
+    "llvm-bc" : "/Users/vil/Development/ios/WebViewGold_iOS_13.7/wsa/ddp/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/SwiftyStoreKit.build/Objects-normal/arm64/SKProduct+LocalizedPrice.bc",
+    "object" : "/Users/vil/Development/ios/WebViewGold_iOS_13.7/wsa/ddp/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/SwiftyStoreKit.build/Objects-normal/arm64/SKProduct+LocalizedPrice.o",
+    "swift-dependencies" : "/Users/vil/Development/ios/WebViewGold_iOS_13.7/wsa/ddp/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/SwiftyStoreKit.build/Objects-normal/arm64/SKProduct+LocalizedPrice.swiftdeps",
+    "swiftmodule" : "/Users/vil/Development/ios/WebViewGold_iOS_13.7/wsa/ddp/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/SwiftyStoreKit.build/Objects-normal/arm64/SKProduct+LocalizedPrice~partial.swiftmodule"
+  },
+  "/Users/vil/Development/ios/WebViewGold_iOS_13.7/wsa/Pods/SwiftyStoreKit/Sources/SwiftyStoreKit/SKProductDiscount+LocalizedPrice.swift" : {
+    "const-values" : "/Users/vil/Development/ios/WebViewGold_iOS_13.7/wsa/ddp/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/SwiftyStoreKit.build/Objects-normal/arm64/SKProductDiscount+LocalizedPrice.swiftconstvalues",
+    "dependencies" : "/Users/vil/Development/ios/WebViewGold_iOS_13.7/wsa/ddp/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/SwiftyStoreKit.build/Objects-normal/arm64/SKProductDiscount+LocalizedPrice.d",
+    "diagnostics" : "/Users/vil/Development/ios/WebViewGold_iOS_13.7/wsa/ddp/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/SwiftyStoreKit.build/Objects-normal/arm64/SKProductDiscount+LocalizedPrice.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphoneos/SwiftyStoreKit.build/Objects-normal/arm64/SKProductDiscount+LocalizedPrice.o",
+    "llvm-bc" : "/Users/vil/Development/ios/WebViewGold_iOS_13.7/wsa/ddp/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/SwiftyStoreKit.build/Objects-normal/arm64/SKProductDiscount+LocalizedPrice.bc",
+    "object" : "/Users/vil/Development/ios/WebViewGold_iOS_13.7/wsa/ddp/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/SwiftyStoreKit.build/Objects-normal/arm64/SKProductDiscount+LocalizedPrice.o",
+    "swift-dependencies" : "/Users/vil/Development/ios/WebViewGold_iOS_13.7/wsa/ddp/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/SwiftyStoreKit.build/Objects-normal/arm64/SKProductDiscount+LocalizedPrice.swiftdeps",
+    "swiftmodule" : "/Users/vil/Development/ios/WebViewGold_iOS_13.7/wsa/ddp/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/SwiftyStoreKit.build/Objects-normal/arm64/SKProductDiscount+LocalizedPrice~partial.swiftmodule"
+  },
+  "/Users/vil/Development/ios/WebViewGold_iOS_13.7/wsa/Pods/SwiftyStoreKit/Sources/SwiftyStoreKit/SwiftyStoreKit.swift" : {
+    "const-values" : "/Users/vil/Development/ios/WebViewGold_iOS_13.7/wsa/ddp/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/SwiftyStoreKit.build/Objects-normal/arm64/SwiftyStoreKit.swiftconstvalues",
+    "dependencies" : "/Users/vil/Development/ios/WebViewGold_iOS_13.7/wsa/ddp/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/SwiftyStoreKit.build/Objects-normal/arm64/SwiftyStoreKit.d",
+    "diagnostics" : "/Users/vil/Development/ios/WebViewGold_iOS_13.7/wsa/ddp/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/SwiftyStoreKit.build/Objects-normal/arm64/SwiftyStoreKit.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphoneos/SwiftyStoreKit.build/Objects-normal/arm64/SwiftyStoreKit.o",
+    "llvm-bc" : "/Users/vil/Development/ios/WebViewGold_iOS_13.7/wsa/ddp/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/SwiftyStoreKit.build/Objects-normal/arm64/SwiftyStoreKit.bc",
+    "object" : "/Users/vil/Development/ios/WebViewGold_iOS_13.7/wsa/ddp/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/SwiftyStoreKit.build/Objects-normal/arm64/SwiftyStoreKit.o",
+    "swift-dependencies" : "/Users/vil/Development/ios/WebViewGold_iOS_13.7/wsa/ddp/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/SwiftyStoreKit.build/Objects-normal/arm64/SwiftyStoreKit.swiftdeps",
+    "swiftmodule" : "/Users/vil/Development/ios/WebViewGold_iOS_13.7/wsa/ddp/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/SwiftyStoreKit.build/Objects-normal/arm64/SwiftyStoreKit~partial.swiftmodule"
+  },
+  "/Users/vil/Development/ios/WebViewGold_iOS_13.7/wsa/Pods/SwiftyStoreKit/Sources/SwiftyStoreKit/SwiftyStoreKit+Types.swift" : {
+    "const-values" : "/Users/vil/Development/ios/WebViewGold_iOS_13.7/wsa/ddp/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/SwiftyStoreKit.build/Objects-normal/arm64/SwiftyStoreKit+Types.swiftconstvalues",
+    "dependencies" : "/Users/vil/Development/ios/WebViewGold_iOS_13.7/wsa/ddp/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/SwiftyStoreKit.build/Objects-normal/arm64/SwiftyStoreKit+Types.d",
+    "diagnostics" : "/Users/vil/Development/ios/WebViewGold_iOS_13.7/wsa/ddp/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/SwiftyStoreKit.build/Objects-normal/arm64/SwiftyStoreKit+Types.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphoneos/SwiftyStoreKit.build/Objects-normal/arm64/SwiftyStoreKit+Types.o",
+    "llvm-bc" : "/Users/vil/Development/ios/WebViewGold_iOS_13.7/wsa/ddp/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/SwiftyStoreKit.build/Objects-normal/arm64/SwiftyStoreKit+Types.bc",
+    "object" : "/Users/vil/Development/ios/WebViewGold_iOS_13.7/wsa/ddp/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/SwiftyStoreKit.build/Objects-normal/arm64/SwiftyStoreKit+Types.o",
+    "swift-dependencies" : "/Users/vil/Development/ios/WebViewGold_iOS_13.7/wsa/ddp/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/SwiftyStoreKit.build/Objects-normal/arm64/SwiftyStoreKit+Types.swiftdeps",
+    "swiftmodule" : "/Users/vil/Development/ios/WebViewGold_iOS_13.7/wsa/ddp/Build/Intermediates.noindex/Pods.build/Debug-iphoneos/SwiftyStoreKit.build/Objects-normal/arm64/SwiftyStoreKit+Types~partial.swiftmodule"
+  }
+}

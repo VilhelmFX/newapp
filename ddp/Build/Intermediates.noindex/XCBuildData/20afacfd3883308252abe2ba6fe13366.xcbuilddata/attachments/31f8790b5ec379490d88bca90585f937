@@ -1,0 +1,4 @@
+module Minizip {
+umbrella header "/Users/vil/Development/ios/WebViewGold_iOS_13.7/wsa/ddp/SourcePackages/checkouts/Zip/Zip/minizip/include/Minizip.h"
+export *
+}

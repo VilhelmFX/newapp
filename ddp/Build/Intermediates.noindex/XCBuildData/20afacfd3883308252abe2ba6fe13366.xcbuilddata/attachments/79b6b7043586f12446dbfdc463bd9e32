@@ -1,0 +1,5 @@
+ extern const unsigned char WonderPushVersionString[];
+ extern const double WonderPushVersionNumber;
+
+ const unsigned char WonderPushVersionString[] __attribute__ ((used)) = "@(#)PROGRAM:WonderPush  PROJECT:Pods-1" "\n";
+ const double WonderPushVersionNumber __attribute__ ((used)) = (double)1.;
