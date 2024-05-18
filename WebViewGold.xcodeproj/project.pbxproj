@@ -378,6 +378,7 @@
 				4574400F20B890A000E6336E /* Embed App Extensions */,
 				E2EC93D527B52066D54C3655 /* [CP] Embed Pods Frameworks */,
 				493107C62612ADE5008DB3D4 /* Embed App Clips */,
+				0166262176048D3F3468BFCE /* [CP] Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -495,6 +496,28 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXShellScriptBuildPhase section */
+		0166262176048D3F3468BFCE /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-WebViewGold/Pods-WebViewGold-resources.sh",
+				"${PODS_CONFIGURATION_BUILD_DIR}/AppCenter/AppCenterAnalytics.bundle",
+				"${PODS_CONFIGURATION_BUILD_DIR}/AppCenter/AppCenter.bundle",
+				"${PODS_CONFIGURATION_BUILD_DIR}/AppCenter/AppCenterCrashes.bundle",
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/AppCenterAnalytics.bundle",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/AppCenter.bundle",
+				"${TARGET_BUILD_DIR}/${UNLOCALIZED_RESOURCES_FOLDER_PATH}/AppCenterCrashes.bundle",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-WebViewGold/Pods-WebViewGold-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
 		5CB7F19B6486982E01449A2E /* [CP] Check Pods Manifest.lock */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;

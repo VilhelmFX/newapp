@@ -26,6 +26,7 @@ target 'WebViewGold' do
   pod 'SwiftyGif'
   pod 'WonderPush'
   pod 'PushwooshXCFramework'
+  pod 'AppCenter'
 end
 
 post_install do |installer|

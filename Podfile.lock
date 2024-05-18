@@ -1,4 +1,12 @@
 PODS:
+  - AppCenter (5.0.5):
+    - AppCenter/Analytics (= 5.0.5)
+    - AppCenter/Crashes (= 5.0.5)
+  - AppCenter/Analytics (5.0.5):
+    - AppCenter/Core
+  - AppCenter/Core (5.0.5)
+  - AppCenter/Crashes (5.0.5):
+    - AppCenter/Core
   - FBAudienceNetwork (6.12.0)
   - Firebase/Core (10.11.0):
     - Firebase/CoreOnly
@@ -120,6 +128,7 @@ PODS:
   - WonderPush/Core (4.2.1)
 
 DEPENDENCIES:
+  - AppCenter
   - FBAudienceNetwork
   - Firebase/Core
   - Firebase/Messaging
@@ -133,6 +142,7 @@ DEPENDENCIES:
 
 SPEC REPOS:
   trunk:
+    - AppCenter
     - FBAudienceNetwork
     - Firebase
     - FirebaseAnalytics
@@ -155,6 +165,7 @@ SPEC REPOS:
     - WonderPush
 
 SPEC CHECKSUMS:
+  AppCenter: 994875ea7941b9e168babb98299f900a94bcef13
   FBAudienceNetwork: e0fcc9091fced34910ed0b6da06f129db46ac9e6
   Firebase: 31d9575c124839fb5abc0db6d39511cc1dab1b85
   FirebaseAnalytics: 6c6bf99e8854475bf1fa342028841be8ecd236da
@@ -176,6 +187,6 @@ SPEC CHECKSUMS:
   SwiftyStoreKit: 6b9c08810269f030586dac1fae8e75871a82e84a
   WonderPush: f4a953995545574af930c3099d5888243dfd091c
 
-PODFILE CHECKSUM: 9dec7f5c3a3a6520124f1a2d770269311f6965eb
+PODFILE CHECKSUM: 535baa6ab45542214dae7b860f3c6c5beb8cf28a
 
-COCOAPODS: 1.14.3
+COCOAPODS: 1.15.2
