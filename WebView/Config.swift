@@ -16,8 +16,8 @@ var purchasecode = "="
 // *** Your Website ***
 
 // 4. Enter your website details here:
-var host = "myrookie-cards.site" //Set your domain host without http:// or https:// prefixes and without any subdomain like "www."
-var webviewurl = "https://famobi.com/?locale=en" //Set your full web app/website URL including http:// or https:// prefix and including subdomains if they are in your URL, like "www.", for example
+var host = "bovasport.com" //Set your domain host without http:// or https:// prefixes and without any subdomain like "www."
+var webviewurl = "https://bovasport.com" //Set your full web app/website URL including http:// or https:// prefix and including subdomains if they are in your URL, like "www.", for example
 //Main Settings
 var orientationiphone = "auto" //Set the orientation to either "portrait", "landscape", or "auto"
 var bottombar = false //Set to "true" to enable the bottombar to prevent the home bar (found in iOS devices with no home button, eg. iPhone X) from overlapping app content; only appears on devices with the homebar

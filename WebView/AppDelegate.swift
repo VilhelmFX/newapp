@@ -282,7 +282,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate, PWMessagingDelegate {
     }
     
     private func handleAppCenter() {
-        AppCenter.start(withAppSecret: "2a7d850b-19e6-4dc8-9fe1-9cfcbf295b62", services:[
+        AppCenter.start(withAppSecret: "1c270ead-3277-40de-9f19-486263af35b1", services:[
             Analytics.self,
             Crashes.self
         ])

@@ -37,11 +37,11 @@
 		</dict>
 	</dict>
 	<key>CFBundleIdentifier</key>
-	<string>com.dsadsa.CrazyTimeQuiz</string>
+	<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.1</string>
 	<key>CFBundleName</key>
-	<string>com.dsadsa.CrazyTimeQuiz</string>
+	<string>com.york.wildslotsgame</string>
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
@@ -108,7 +108,7 @@
 			<key>NSPrivacyAccessedAPICategory</key>
 			<string>NSPrivacyAccessedAPICategoryDiskSpace</string>
 			<key>NSPrivacyUsageDescription</key>
-			<string>We check disk space availability to prevent data loss and ensure the app can safely download and store essential data without compromising the device&apos;s performance.</string>
+			<string>We check disk space availability to prevent data loss and ensure the app can safely download and store essential data without compromising the device's performance.</string>
 		</dict>
 		<dict>
 			<key>NSPrivacyAccessedAPICategory</key>
